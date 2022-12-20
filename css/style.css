@@ -5,9 +5,9 @@ body {
 }
 
 body {
-    background: linear-gradient(-45deg, #00ffff, #000000, #ffffff, #ffff00);
+    background: linear-gradient(-45deg, #00ffff, #ffffff, #00ffff, #ffffff); 
     background-size: 400% 400%;
-    animation: gradient 10s ease infinite;
+    animation: gradient 5s ease infinite;
 }
 
 @keyframes gradient {
@@ -26,6 +26,7 @@ body {
 
 
 .Nav {
+    background-color: black;
     font-style: unset;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -64,6 +65,8 @@ h1 {
 }
 
 .red-button {
-    background-color: red;
+    background-color: #ffff00;
 
 }
+
+
