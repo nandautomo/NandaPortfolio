@@ -5,7 +5,7 @@ body {
 }
 
 body {
-    background: linear-gradient(-45deg, #00ffff, #ffffff, #00ffff, #ffffff); 
+    background: linear-gradient(-45deg, #00ffff, #ffffff, #ffffff, #00ffff); 
     background-size: 400% 400%;
     animation: gradient 5s ease infinite;
 }
@@ -26,7 +26,7 @@ body {
 
 
 .Nav {
-    background-color: black;
+    background-color: rgb(255, 0, 0);
     font-style: unset;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
