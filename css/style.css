@@ -35,7 +35,7 @@ body{
 
 .wrapper {
     color: #ffffff;
-    background-color: #00000070;
+    background-color: #00000050;
     width: 400px;
     margin: auto;
 }
@@ -70,6 +70,13 @@ h1 {
 
 .navbutton {
     background-color: #ffff00;
+}
+
+footer {
+    font-style: oblique;
+    color: #ffffff;
+    background-color: #00000050;;
+
 }
 
 
