@@ -7,7 +7,7 @@ body{
 body{
     background: linear-gradient(-45deg, #00ffff, #ffffff, #ffffff, #00ffff); 
     background-size: 400% 400%;
-    animation: gradient 5s ease infinite;
+    animation: gradient 3s ease infinite;
 }
 
 @keyframes gradient {
@@ -34,6 +34,7 @@ body{
 }
 
 .wrapper {
+    font-size: 14pt;
     color: #ffffff;
     background-color: #00000050;
     width: 400px;
@@ -47,7 +48,7 @@ h1 {
 }
 
 .welcome-text {
-    font-size: 14pt;
+    font-size: 16pt;
     width: 300px;
     margin: auto;
     margin-top: 5px;
@@ -79,4 +80,9 @@ footer {
 
 }
 
+.griddy { 
+    display: grid;
+    font-size: 15pt;
+    font-style: initial;
 
+}
